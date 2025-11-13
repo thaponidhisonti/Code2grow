@@ -1,3 +1,6 @@
+//Thaponidhi Sonti
+//AP25110090153
+
 #include <stdio.h>
 
 int main() {
